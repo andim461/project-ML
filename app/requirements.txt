@@ -1,0 +1,4 @@
+transformers
+PyQt5
+PyInstaller
+pytorch_lightning
