@@ -1,4 +1,4 @@
-## [Данные, модель, презентация](https://drive.google.com/drive/folders/14GvCTtqMJvdqfS19SvmbJ0Cxny0Qe_wZ?usp=sharing)
+## [Данные, модель, презентация](https://drive.google.com/folderview?id=1-xf8ILbPmzb0z3e1wYY8P_Dz0ujNgQUj)
 
 # Исправление ошибок в русскоязычном тексте
 **Участники проекта:**<br>
