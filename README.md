@@ -1,4 +1,4 @@
-# [Данные, модель, презентация](https://drive.google.com/drive/folders/14GvCTtqMJvdqfS19SvmbJ0Cxny0Qe_wZ?usp=sharing)
+## [Данные, модель, презентация](https://drive.google.com/drive/folders/14GvCTtqMJvdqfS19SvmbJ0Cxny0Qe_wZ?usp=sharing)
 
 # Исправление ошибок в русскоязычном тексте
 **Участники проекта:**<br>
@@ -10,5 +10,5 @@
 1. Скачать репозиторий
 2. Перейти в папку app
 3. Скачать модель по ссылке выше и положить в папку app
-4. Установить [необходимые зависимости](app/requirements.txt)
+4. Установить [необходимые зависимости](app/requirements.txt) pip install -r requirements.txt
 5. Запустить файл [main.py](app/main.py)
