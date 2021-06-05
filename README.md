@@ -10,5 +10,5 @@
 1. Скачать репозиторий
 2. Перейти в папку app
 3. Скачать модель по ссылке выше и положить в папку app
-4. Установить [необходимые зависимости](app/requirements.txt) <i> pip install -r requirements.txt 
+4. Установить [необходимые зависимости](app/requirements.txt) <i> pip install -r requirements.txt </i>
 5. Запустить файл [main.py](app/main.py)
